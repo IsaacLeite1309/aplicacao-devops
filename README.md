@@ -41,4 +41,13 @@ A aplicação expõe os seguintes pontos de acesso para interação e verificaç
   ]
 }
 
+## Equipe de Desenvolvimento
+
+Esta equipe trabalhou de forma colaborativa e paralela, seguindo os princípios de transparência e integração contínua do DevOps.
+
+| Nome Completo | Função Principal no Projeto |
+| **Isaac da Silva Leite** | Gestão de Repo e Documentação |
+| **Klaudenilson Sampaio ALves** | Setup e Lógica de Dados |
+| **NHigor Pessoa da Silva** | Frontend e Rotas de View |
+
 
