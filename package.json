@@ -1,0 +1,24 @@
+{
+  "name": "aplicacao-devops",
+  "version": "1.0.0",
+  "description": "Esta aplicação foi desenvolvida como parte da avaliação N1 da disciplina de **Ferramentas de Implantação Contínua**. O projeto consiste em um servidor web simples construído para demonstrar o domínio do fluxo de trabalho DevOps, focado em versionamento semântico, colaboração via branches e automação de processos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacLeite1309/aplicacao-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IsaacLeite1309/aplicacao-devops/issues"
+  },
+  "homepage": "https://github.com/IsaacLeite1309/aplicacao-devops#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
