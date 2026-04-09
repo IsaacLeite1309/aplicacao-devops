@@ -23,6 +23,22 @@ Siga os passos abaixo para rodar a aplicação localmente:
 3. **Inicie o servidor:**
     Execute o ponto de entrada da aplicação localizado na pasta src.
     node src/app.js
-    
+
+## Endpoints da API
+
+A aplicação expõe os seguintes pontos de acesso para interação e verificação:
+
+* **`GET /`**: Rota principal que serve o arquivo estático `index.html`. Esta é a porta de entrada visual da aplicação.
+* **`GET /integrantes`**: Rota técnica que retorna um objeto JSON contendo a lista oficial de todos os integrantes do grupo.
+
+**Exemplo de resposta da rota `/integrantes`:**
+```json
+{
+  "integrantes": [
+    {"nome": "Isaac da Silva Leite"},
+    {"nome": "Klaudenilson Sampaio ALves"},
+    {"nome": "Higor Pessoa da Silva"}
+  ]
+}
 
 
